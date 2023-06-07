@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/agora-client-react/static/css/main.a77406cd.css",
-    "main.js": "/agora-client-react/static/js/main.ffdd304d.js",
+    "main.js": "/agora-client-react/static/js/main.68725c1b.js",
     "static/js/787.af0ccb2e.chunk.js": "/agora-client-react/static/js/787.af0ccb2e.chunk.js",
     "index.html": "/agora-client-react/index.html",
     "main.a77406cd.css.map": "/agora-client-react/static/css/main.a77406cd.css.map",
-    "main.ffdd304d.js.map": "/agora-client-react/static/js/main.ffdd304d.js.map",
+    "main.68725c1b.js.map": "/agora-client-react/static/js/main.68725c1b.js.map",
     "787.af0ccb2e.chunk.js.map": "/agora-client-react/static/js/787.af0ccb2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a77406cd.css",
-    "static/js/main.ffdd304d.js"
+    "static/js/main.68725c1b.js"
   ]
 }
