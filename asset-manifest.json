@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a77406cd.css",
-    "main.js": "/static/js/main.f3f42dc8.js",
-    "static/js/787.af0ccb2e.chunk.js": "/static/js/787.af0ccb2e.chunk.js",
-    "index.html": "/index.html",
-    "main.a77406cd.css.map": "/static/css/main.a77406cd.css.map",
-    "main.f3f42dc8.js.map": "/static/js/main.f3f42dc8.js.map",
-    "787.af0ccb2e.chunk.js.map": "/static/js/787.af0ccb2e.chunk.js.map"
+    "main.css": "/agora-client-react/static/css/main.a77406cd.css",
+    "main.js": "/agora-client-react/static/js/main.ffdd304d.js",
+    "static/js/787.af0ccb2e.chunk.js": "/agora-client-react/static/js/787.af0ccb2e.chunk.js",
+    "index.html": "/agora-client-react/index.html",
+    "main.a77406cd.css.map": "/agora-client-react/static/css/main.a77406cd.css.map",
+    "main.ffdd304d.js.map": "/agora-client-react/static/js/main.ffdd304d.js.map",
+    "787.af0ccb2e.chunk.js.map": "/agora-client-react/static/js/787.af0ccb2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a77406cd.css",
-    "static/js/main.f3f42dc8.js"
+    "static/js/main.ffdd304d.js"
   ]
 }
